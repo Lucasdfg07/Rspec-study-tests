@@ -12,4 +12,10 @@ RSpec.describe Weapon, type: :model do
   	weapon = create(:weapon)
   	expect(weapon.title).to eq("#{weapon.name}##{weapon.level}")
   end
+
+  it "verify the power base" do
+  	weapon = create(:weapon)
+
+  	expect(weapon.current_power).to eq(weapon.power_base + (weapon.level - 1) * weapon.power_step)
+  end
 end
