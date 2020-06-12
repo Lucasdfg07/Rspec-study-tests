@@ -13,13 +13,8 @@ This application is an app based in rspec tests of OneBitCode's course. Includes
     <img alt="Made by Lucas Siqueira" src="https://img.shields.io/badge/made%20by-Lucasdfg07-%2304D361">
   </a>
 
-  <a href="https://github.com/Lucasdfg07/Ecoleta_api/commits/master">
+  <a href="https://github.com/Lucasdfg07/Rspec-study-tests/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Lucasdfg07/Rspec-study-tests">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/Lucasdfg07/Ecoleta_api/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/Lucasdfg07/Rspec-study-tests?style=social">
   </a>
 </p>
 
